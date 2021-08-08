@@ -12,9 +12,9 @@ route.get('/', services.homeRoutes);
 
 /**
  *  @description assgin Task
- *  @method GET /assgin Task
+ *  @method GET /assgin Task Action Part
  */
-route.get('/add-user', services.add_user)
+route.get('/add-user', services.add_user)   
 
 /**
  *  @description Edit assgin Task
