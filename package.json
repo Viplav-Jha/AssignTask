@@ -11,7 +11,7 @@
     "assignTask",
     "mongodb"
   ],
-  "author": "akshay kashyap",
+  "author": "Viplav jha",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
