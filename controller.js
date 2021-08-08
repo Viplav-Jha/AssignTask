@@ -81,8 +81,7 @@ exports.update = (req, res)=>{
         })
         .catch(err =>{
             res.status(500).send({ message : "Error Update user information"})
-        })
-}
+        }) }
 
 // Delete a user with specified user id in the request
 exports.delete = (req, res)=>{
